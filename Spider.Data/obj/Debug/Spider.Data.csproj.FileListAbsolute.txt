@@ -1,0 +1,10 @@
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Data\bin\Debug\Spider.Data.dll.config
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Data\bin\Debug\Spider.Data.dll
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Data\bin\Debug\Spider.Data.pdb
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Data\bin\Debug\EntityFramework.dll
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Data\bin\Debug\EntityFramework.xml
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Data\obj\Debug\Spider.Data.csprojResolveAssemblyReference.cache
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Data\obj\Debug\Spider.Data.dll
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Data\obj\Debug\Spider.Data.pdb

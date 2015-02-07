@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spider.Data", "Spider.Data\Spider.Data.csproj", "{1BCC9BC6-DB78-49C8-AF54-A70893B3EC42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spider.Service", "Spider.Service\Spider.Service.csproj", "{1B3D97D6-EC1E-4997-8FB9-744C3F660684}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spider.Type", "Spider.Type\Spider.Type.csproj", "{0371B7D3-622F-4EA8-B58E-236BBFA99FBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BCC9BC6-DB78-49C8-AF54-A70893B3EC42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BCC9BC6-DB78-49C8-AF54-A70893B3EC42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BCC9BC6-DB78-49C8-AF54-A70893B3EC42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BCC9BC6-DB78-49C8-AF54-A70893B3EC42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B3D97D6-EC1E-4997-8FB9-744C3F660684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B3D97D6-EC1E-4997-8FB9-744C3F660684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B3D97D6-EC1E-4997-8FB9-744C3F660684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B3D97D6-EC1E-4997-8FB9-744C3F660684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0371B7D3-622F-4EA8-B58E-236BBFA99FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0371B7D3-622F-4EA8-B58E-236BBFA99FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0371B7D3-622F-4EA8-B58E-236BBFA99FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0371B7D3-622F-4EA8-B58E-236BBFA99FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

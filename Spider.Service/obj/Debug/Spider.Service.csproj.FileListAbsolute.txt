@@ -1,0 +1,14 @@
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Service\bin\Debug\Spider.Service.dll.config
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Service\bin\Debug\Spider.Service.dll
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Service\bin\Debug\Spider.Service.pdb
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Service\bin\Debug\EntityFramework.dll
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Service\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Service\bin\Debug\Spider.Data.dll
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Service\bin\Debug\Spider.Data.pdb
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Service\bin\Debug\EntityFramework.xml
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Service\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Service\obj\Debug\Spider.Service.csprojResolveAssemblyReference.cache
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Service\obj\Debug\Spider.Service.dll
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Service\obj\Debug\Spider.Service.pdb
+C:\Users\Erhan\Documents\Visual Studio 2013\Projects\Spider\Spider.Service\bin\Debug\Spider.Type.dll
+C:\Users\Erhan\Documents\Visual Studio 2013\Projects\Spider\Spider.Service\bin\Debug\Spider.Type.pdb

@@ -1,0 +1,5 @@
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Type\bin\Debug\Spider.Type.dll
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Type\bin\Debug\Spider.Type.pdb
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Type\obj\Debug\Spider.Type.csprojResolveAssemblyReference.cache
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Type\obj\Debug\Spider.Type.dll
+c:\users\erhan\documents\visual studio 2013\Projects\Spider\Spider.Type\obj\Debug\Spider.Type.pdb
